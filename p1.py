@@ -1,0 +1,7 @@
+print("hello world")
+name=raw_input("what is ur name?")
+salutation=raw_input("enter ur salutation:")
+spy_name=(salutation+""+name)
+print("Alright "+spy_name+" i'd like to know a lil bit more abt u..")
+spy_age=str(21)
+print(spy_name+" is "+ spy_age +" yrs old.")
